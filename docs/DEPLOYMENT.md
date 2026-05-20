@@ -14,8 +14,7 @@ docs/{author}/{topic}                   # Documentation updates
 
 **Examples:**
 - `feature/quyet/add-deployment-docs`
-- `bugfix/hao/fix-cors-headers`
-- `docs/quyet/database-setup`
+- `bugfix/hao/fix-cors-headers` 
 
 ## Deployment Process
 
